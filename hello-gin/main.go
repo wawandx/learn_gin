@@ -15,4 +15,4 @@ func getHome(context *gin.Context) {
 		"status": "success",
 		"message": "welcome gin",
 	})
-})
+}
